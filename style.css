@@ -293,8 +293,11 @@ border-width: 10px;
 }
 
 .buttonfun{
-cursor: pointer;
 background-color: #05280d;
+}
+
+.buttonfun button{ 
+  cursor: pointer;
 }
 
 .gif{
